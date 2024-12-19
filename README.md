@@ -1,3 +1,3 @@
 # Проектная работа Mesto
 
-https://diedamia.github.io/Yandex-Practicum/project_№4/
+[Ссылка на страницу](https://diedamia.github.io/mesto-project/)
